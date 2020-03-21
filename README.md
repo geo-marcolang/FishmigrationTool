@@ -5,7 +5,7 @@ The tool shows the thalweg as well as other parameters of fishability based on h
 see the tutorial (german) for more info.
 
 Update History
-- V.1 - 2020 Mars 21 - Upload
+- V.1 - 2020 March 22 - Upload
 
 ### Running the script
 
