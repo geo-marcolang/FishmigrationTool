@@ -7,7 +7,7 @@ see the tutorial (german) for more info.
 
 Download and unzip the Github Repository to a In your command line program of choice (i.e. Windows command prompt, Anaconda prompt)
 
-- Change the direcotry cd c:\... to the unzipped repository
+- Change the directory cd c:\... to the unzipped repository
 - Run the script with python py_Fishmigrationtool_alone.py or python py_Fishmigrationtool_several.py
 
 ### Requirements
