@@ -21,3 +21,8 @@ Download and unzip the Github Repository to a In your command line program of ch
 - Required Libraries: networkx, numpy, pandas, matplotlib, tkinter
 
 ** I use Anaconda Python that has all the required libraries (https://www.anaconda.com/distribution/)
+
+### Output
+
+
+
