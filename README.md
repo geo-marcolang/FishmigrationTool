@@ -2,7 +2,7 @@
 
 The tool shows the thalweg as well as other parameters of fishability based on hydraulic modelling and with principles of network theory. For the execution there is a GUI interface.
 
-see the tutorial (german) for more info.
+see the tutorial - Benutzerhandbuch_Fischdurchgängigkeitstool_Marco Lang (german) for more info.
 
 Update History
 - V.1 - 2020 March 22 - Upload
