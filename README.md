@@ -1,6 +1,6 @@
 # FishmigrationTool
 
-The tool shows the thalweg as well as other parameters of fishability based on hydraulic modelling and with principles of network theory. For the execution there is a GUI interface.
+The tool was developed in the context of the master thesis with the title Modelling of fish passability of watercourses at low water discharges. The tool shows the thalweg as well as other parameters of fishability based on hydraulic modelling and with principles of network theory. For the execution there is a GUI interface.
 
 see the tutorial - Benutzerhandbuch_Fischdurchgängigkeitstool_Marco Lang (german) for more info.
 
