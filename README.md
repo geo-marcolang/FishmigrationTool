@@ -5,7 +5,7 @@ The tool was developed in the context of the master thesis with the title Modell
 see the tutorial - Benutzerhandbuch_Fischdurchgängigkeitstool_Marco Lang (german) for more info.
 
 Update History
-- V.1 - 2020 March 22 - Upload
+- V.1 - 2020 April 05 - Upload
 
 ### Running the script
 
