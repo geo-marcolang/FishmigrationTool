@@ -6,6 +6,7 @@ see the tutorial - Benutzerhandbuch_Fischdurchgängigkeitstool_Marco Lang (germa
 
 Update History
 - V.1 - 2020 April 05 - Upload
+- V.1.1 - 2020 October 10 - Fixed Bugs
 
 ### Running the script
 
